@@ -1,0 +1,5 @@
+sch_1,06.13,07.45,40000,Sidoarjo
+sch_2,08.37,10.09,40000,Sidoarjo
+sch_3,09.56,11.28,40000,Sidoarjo
+sch_4,12.45,14.15,40000,Sidoarjo
+sch_5,19.12,20.44,40000,Sidoarjo

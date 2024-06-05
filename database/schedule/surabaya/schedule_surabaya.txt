@@ -1,0 +1,10 @@
+Stasiun Asal : Surabaya
+=============================
+| No |    Stasiun Tujuan    |
+=============================
+| 1. |       Sidoarjo       |
+| 2. |        Lawang        |
+| 3. |        Malang        |
+| 4. |       Kepanjen       |
+=============================
+Pilih Stasiun Tujuan : 

@@ -1,0 +1,10 @@
+Stasiun Asal : Malang
+=============================
+| No |    Stasiun Tujuan    |
+=============================
+| 1. |        Lawang        |
+| 2. |        Porong        |
+| 3. |       Sidoarjo       |
+| 4. |       Surabaya       |
+=============================
+Pilih Stasiun Tujuan : 

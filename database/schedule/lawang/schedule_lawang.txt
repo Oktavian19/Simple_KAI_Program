@@ -1,0 +1,10 @@
+Stasiun Asal : Lawang
+=============================
+| No |    Stasiun Tujuan    |
+=============================
+| 1. |        Bangil        |
+| 2. |        Porong        |
+| 3. |       Sidoarjo       |
+| 4. |       Surabaya       |
+=============================
+Pilih Stasiun Tujuan : 

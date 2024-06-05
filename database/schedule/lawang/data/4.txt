@@ -1,0 +1,5 @@
+sch_1,06.13,08.15,45000,Surabaya
+sch_2,08.37,10.39,45000,Surabaya
+sch_3,09.56,11.58,45000,Surabaya
+sch_4,12.45,14.47,45000,Surabaya
+sch_5,19.12,21.14,45000,Surabaya

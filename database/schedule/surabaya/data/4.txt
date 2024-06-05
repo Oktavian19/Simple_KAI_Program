@@ -1,0 +1,5 @@
+sch_1,05.00,08.04,60000,Kepanjen
+sch_2,06.15,09.17,60000,Kepanjen
+sch_3,08.30,10.31,60000,Kepanjen
+sch_4,10.00,13.00,60000,Kepanjen
+sch_5,13.45,16.34,60000,Kepanjen

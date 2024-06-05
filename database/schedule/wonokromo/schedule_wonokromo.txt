@@ -1,0 +1,10 @@
+Stasiun Asal : Wonokromo
+=============================
+| No |    Stasiun Tujuan    |
+=============================
+| 1. |       Sidoarjo       |
+| 2. |        Porong        |
+| 3. |       Singosari      |
+| 4. |        Malang        |
+=============================
+Pilih Stasiun Tujuan : 

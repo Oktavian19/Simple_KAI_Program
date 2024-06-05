@@ -1,0 +1,24 @@
+======================================================
+| No | Stasiun Keberangkatan |     Stasiun Tujuan    |
+======================================================
+| 1. |        Malang         |         Lawang        |
+|    |                       |         Porong        |
+|    |                       |        Sidoarjo       |
+|    |                       |        Surabaya       |
+|----------------------------------------------------|
+| 2. |        Lawang         |         Bangil        |
+|    |                       |         Porong        |
+|    |                       |        Sidoarjo       |
+|    |                       |        Surabaya       |
+|----------------------------------------------------|
+| 3. |       Surabaya        |        Sidoarjo       |
+|    |                       |         Lawang        |
+|    |                       |         Malang        |
+|    |                       |        Kepanjen       |
+|----------------------------------------------------|
+| 4. |       Wonokromo       |        Sidoarjo       |
+|    |                       |         Porong        |
+|    |                       |        Singosari      |
+|    |                       |         Malang        |
+======================================================
+Pilih Stasiun Keberangkatan : 
